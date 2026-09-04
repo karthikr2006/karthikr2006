@@ -8,9 +8,8 @@ I'm a Computer Science Engineering student interested in software development, p
 
 - **Languages:** C, C++, Java, SQL
 - **Core Concepts:** Data Structures, Object-Oriented Programming, Problem Solving
-- **Currently Exploring:** Artificial Intelligence
 
-### 📚 Currently Learning
+### 📚 What I'm Learning
 
 - Data Structures & Algorithms
 - Software Development
